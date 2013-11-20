@@ -1,0 +1,19 @@
+{
+    "name": "zlik/http-status-codes-trait",
+    "description": "A PHP trait which provides HTTP status code properties.",
+    "homepage": "https://github.com/zlik/http-status-codes-trait",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Zarichnyi",
+            "homepage": "https://github.com/zlik",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {"Zlik": ["src/"]}
+    }
+}
