@@ -67,5 +67,5 @@ trait HttpStatusCodes
     public $HTTP_BAD_GATEWAY = 502;
     public $HTTP_SERVICE_UNAVAILABLE = 503;
     public $HTTP_GATEWAY_TIMEOUT = 504;
-    public $nst HTTP_VERSION_NOT_SUPPORTED = 505;
+    public $HTTP_VERSION_NOT_SUPPORTED = 505;
 }
