@@ -1,6 +1,6 @@
 {
     "name": "zlik/http-status-codes-trait",
-    "description": "A PHP trait which provides HTTP status code properties.",
+    "description": "A PHP trait which defines all standard HTTP status codes.",
     "homepage": "https://github.com/zlik/http-status-codes-trait",
     "license": "MIT",
     "authors": [
