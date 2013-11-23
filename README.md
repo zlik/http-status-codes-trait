@@ -1,6 +1,6 @@
 #HTTP Status Codes Trait
 
-A PHP trait which provides HTTP status code properties.
+A PHP trait which defines all standard HTTP status codes.
 
 #Installing with Composer
 
