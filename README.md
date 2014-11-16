@@ -6,7 +6,7 @@ A PHP trait which defines all standard HTTP status codes.
 
 ```` json
 "require": {
-    "zlik/http-status-codes-trait": "dev-master"
+    "zlik/http-status-codes-trait": "1.0"
 }
 ````
 
